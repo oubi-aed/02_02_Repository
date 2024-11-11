@@ -1,5 +1,9 @@
+Computer Name: ThinkPad-von-Peter
+Date of Test: 2024-11-11 17:17:29
+Bubble Sort Time: 5.403015 seconds
+Quick Sort Time: 0.014781 seconds
+
 Computer Name: itz_dat_alex
 Date of Test: 2024-11-11 17:17:35
 Bubble Sort Time: 4.447528 seconds
 Quick Sort Time: 0.010027 seconds
-
