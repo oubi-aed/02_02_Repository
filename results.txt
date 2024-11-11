@@ -1,0 +1,5 @@
+Computer Name: itz_dat_alex
+Date of Test: 2024-11-11 17:17:35
+Bubble Sort Time: 4.447528 seconds
+Quick Sort Time: 0.010027 seconds
+
